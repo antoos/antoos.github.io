@@ -11,8 +11,6 @@ description:         'A reserved <a href="http://jekyllrb.com" target="_blank">J
 url:                 http://antoos.github.io
 baseurl:             ''
 paginate:            5
-plugins:
-. - jekyll-archives
 
 # About/contact
 # author:
